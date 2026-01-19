@@ -1,3 +1,4 @@
+'use client';
 import Accordion from './components/Accordion'
 import styles from './page.module.css'
 
